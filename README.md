@@ -1,1 +1,1 @@
-# pac-man-3.0
+# Pac-Man
